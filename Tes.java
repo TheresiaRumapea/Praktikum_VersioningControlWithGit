@@ -12,7 +12,8 @@ public class Tes {
               Scanner input_program = new Scanner (System.in);
               System.out.print("Masukan Nama Anda: ");
               nama = input_program.nextLine();
-              System.out.println("Nama Kamu : " + nama);    
+              System.out.println("Nama Kamu : " + nama);  
+              System.out.println("Nama Saya : " + nama);  
        }
 
 }
