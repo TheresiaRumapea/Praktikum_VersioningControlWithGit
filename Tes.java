@@ -15,6 +15,8 @@ public class Tes {
               System.out.println("Nama Kamu : " + nama);
               System.out.println("Nama Dia : " + nama); 
               System.out.println("Nama Mereka : " + nama); 
+              System.out.println("Nama Kamu : " + nama);  
+              System.out.println("Nama Saya : " + nama);  
        }
 
 }
