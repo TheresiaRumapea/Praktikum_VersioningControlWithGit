@@ -13,7 +13,8 @@ public class Tes {
               System.out.print("Masukan Nama Anda: ");
               nama = input_program.nextLine();
               System.out.println("Nama Kamu : " + nama);
-              System.out.println("Nama Dia : " + nama);    
+              System.out.println("Nama Dia : " + nama); 
+              System.out.println("Nama Mereka : " + nama); 
        }
 
 }
